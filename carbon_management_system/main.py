@@ -22,7 +22,7 @@ import os
 
 def main():
     # 主程序逻辑开始
-    print("发电厂碳管理软件启动中...")
+    print("发电厂碳管理软件启动中")
     # app = QApplication(sys.argv)
     # # 加载主窗口等
     # # ex = MainWindow()
